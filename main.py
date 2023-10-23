@@ -6,7 +6,7 @@ def main():
     ##################################################
     """
 
-    celsius = float(input('Enter temperature in celsuius: '))
+    celsius = float(input('Enter temperature in celsius: '))
     fahrenheit = (9/5 * celsius) + 32
     print(f'The temperature in fahrenheit is: {fahrenheit:.2f}')
 
